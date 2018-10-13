@@ -1,5 +1,7 @@
 # A Webtask to push to Firebase any data POST'ed
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/webtask-firebase.svg)](https://www.guardrails.io)
+
 ## Disclaimer
 
 This software is just an exercise and is stored in GitHub "as is", without warranty of any kind, either expressed or implied and such software is to be used at your own risk.
